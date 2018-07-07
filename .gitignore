@@ -1,7 +1,3 @@
-_site/assets
-_site/jekyll
-_site/404.html
-_site/feed.xml
-_site/index.html
+_site
 .sass-cache
 .jekyll-metadata
